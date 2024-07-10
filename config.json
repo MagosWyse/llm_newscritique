@@ -1,0 +1,23 @@
+{
+    "urls" : [
+          "https://www.bbc.com/news",
+          "https://edition.cnn.com",
+          "https://english.news.cn/",
+          "https://www.themoscowtimes.com/",
+          "https://www.rt.com/",
+          "https://www.aljazeera.com/news/",
+          "https://apnews.com/world-news",
+          "https://www.dw.com/en/",
+          "https://www.theguardian.com/international",
+          "https://www.euronews.com/news",
+          "https://www.telegraph.co.uk/",
+          "https://www.japantimes.co.jp/",
+          "https://www.straitstimes.com/global",
+          "https://www.thehindu.com/news/international/",
+          "https://www.timesofisrael.com/",
+          "https://www.haaretz.com/",
+          "https://www.chinadaily.com.cn/world",
+          "https://www.arabnews.com/",
+          "https://www.trtworld.com/"
+    ]
+}
